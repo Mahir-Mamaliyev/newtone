@@ -1,0 +1,30 @@
+<div class="grid-container">
+            <div className="img-wrap">
+              <img src='../img/firstIMAGE.jpg'/>
+              <h3>Вышивка</h3>
+              <FontAwesomeIcon />
+            </div>
+
+            <div className="img-wrap">
+              <img src='../img/secondIMAGE.jpg'/>
+              <h3>Старые коллекции</h3>
+              <FontAwesomeIcon />
+            </div>
+
+            </div>
+            <div className="img-wrap">
+              <img src='../img/thirdIMAGE.jpg'/>
+              <h3>Новые коллекции</h3>
+              <FontAwesomeIcon />
+            </div>
+
+            <div className="img-wrap">
+              <img src='../img/fourthIMAGE.jpg'/>
+              <h3>Спорт</h3>
+              <FontAwesomeIcon />
+            </div>
+
+
+
+
+            <a href='tel:+7 800 555-10-61'>+7 800 555-10-61</a>
